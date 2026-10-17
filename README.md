@@ -41,5 +41,5 @@ This project demonstrates foundational cloud networking skills by designing a se
 
 ## 📸 Proof of Execution (VPC Resource Map)
 <img width="1920" height="1080" alt="Screenshot (3514)" src="https://github.com/user-attachments/assets/f48e1cfa-834b-4f7a-b231-0efe0b244c0b" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0065bf9-fea1-4ba6-9f2f-690426ea6ec2" />
 !<img width="1920" height="1080" alt="Screenshot (3515)" src="https://github.com/user-attachments/assets/70e26929-e8d9-4266-952d-bedf81cfaf43" />
