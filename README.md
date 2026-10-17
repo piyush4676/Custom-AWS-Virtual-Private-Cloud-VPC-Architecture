@@ -40,4 +40,6 @@ This project demonstrates foundational cloud networking skills by designing a se
 * Reading and interpreting AWS VPC Resource Maps.
 
 ## 📸 Proof of Execution (VPC Resource Map)
+<img width="1920" height="1080" alt="Screenshot (3514)" src="https://github.com/user-attachments/assets/f48e1cfa-834b-4f7a-b231-0efe0b244c0b" />
+
 !<img width="1920" height="1080" alt="Screenshot (3515)" src="https://github.com/user-attachments/assets/70e26929-e8d9-4266-952d-bedf81cfaf43" />
